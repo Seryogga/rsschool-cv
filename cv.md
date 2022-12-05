@@ -3,11 +3,15 @@
 ### Junior Frontend Developer
 ******
 ### Contact information:
-Phone: +993 65 561664
-E-mail: seryogga1985@gmail.com
-Telegram: @seryoggga
-LinkedIn: [Sergey Myradov](https://www.linkedin.com/in/sergey-myradov/)
-Github: [Seryogga](https://github.com/Seryogga)
+**Phone**: +993 65 561664
+
+**E-mail**: seryogga1985@gmail.com
+
+**Telegram**: @seryoggga
+
+**LinkedIn**: [Sergey Myradov](https://www.linkedin.com/in/sergey-myradov/)
+
+**Github**: [Seryogga](https://github.com/Seryogga)
 ******
 ### About Myself:
 I worked as in one of private companies during 14 years. I started as customs declarant assistant and grew up to general manager assistant. 
