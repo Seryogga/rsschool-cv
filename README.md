@@ -1,2 +1,1 @@
-# rsschool-cv
-Repository for CV task from RS School
+https://seryogga.github.io/rsschool-cv/cv
