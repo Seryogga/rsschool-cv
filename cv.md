@@ -55,6 +55,7 @@ function renderTask(task) {
 * 'The Complete 2022 Web Development Bootcamp' on Udemy;
 * '100 Days Of Code - 2023 Web Development Bootcamp' on Udemy;
 * 'Vue - The Complete Guide (incl. Router & Composition API)' on Udemy;
+
 ***
 ### Languages: 
 * English - B2;
