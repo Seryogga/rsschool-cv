@@ -53,6 +53,7 @@ function renderTask(task) {
 ***
 ### Experience
 *Not yet...*
+
 ***
 ### Courses:
 * 'The Complete 2022 Web Development Bootcamp' on Udemy;
