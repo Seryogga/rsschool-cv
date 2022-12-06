@@ -31,7 +31,7 @@ I began to read about HTML, CSS. Learned tags and CSS selectors. Made some proje
 
 ***
 ### Code example:
-This is the part of code of my project Todo-App in my [Github](https://github.com/Seryogga) account.
+This is the part of code of my project Todo-App in my [Github](https://github.com/Seryogga/todoApp) account.
 ```
 function renderTask(task) {
   const cssClass = task.done ? "task-title task-title--done" : "task-title";
@@ -52,3 +52,12 @@ function renderTask(task) {
 ```
 ***
 ### Courses:
+* 'The Complete 2022 Web Development Bootcamp' on Udemy;
+* '100 Days Of Code - 2023 Web Development Bootcamp' on Udemy;
+* 'Vue - The Complete Guide (incl. Router & Composition API)' on Udemy;
+***
+### Languages: 
+* English - B2;
+* Russian - Native;
+* Turkish - Basic;
+* Deutsch - Basic;
