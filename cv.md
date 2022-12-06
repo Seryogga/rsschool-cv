@@ -31,6 +31,7 @@ I began to read about HTML, CSS. Learned tags and CSS selectors. Made some proje
 
 ***
 ### Code example:
+This is the part of code of my project Todo-App in my [Github](https://github.com/Seryogga) account.
 ```
 function renderTask(task) {
   const cssClass = task.done ? "task-title task-title--done" : "task-title";
@@ -49,3 +50,5 @@ function renderTask(task) {
   tasksList.insertAdjacentHTML("beforeend", taskHTML);
 }
 ```
+***
+### Courses:
